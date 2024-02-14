@@ -34,8 +34,6 @@
     <a href="https://vk.com/deathboii" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shiyuu)
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>https://www.instagram.com/eternal.forgotten/  
   </div>
 
 ## ⚙️ GitHub stats
