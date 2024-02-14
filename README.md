@@ -35,7 +35,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="https://www.instagram.com/eternal.forgotten/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
