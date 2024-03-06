@@ -19,7 +19,7 @@
 ## 📚 Learning
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,sass,git,webpack,gulp,pug,figma,discord,vscode" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,sass,webpack,gulp,pug,figma,discord,vscode" />
     </a>
   </p>
 
