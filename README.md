@@ -25,7 +25,7 @@
 
 ## 📱 Social media
 <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D1%88%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2-449039252/" target="_blank">
+    <a href="https://www.linkedin.com/in/mikhail-shukanov-842243308/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/deathboii" target="_blank">
