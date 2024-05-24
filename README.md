@@ -7,7 +7,7 @@
 </div>
 
 ## 💬 About me
-- Beginning web developer (React, React Router, TypeScript, Redux)
+- Beginning web developer (React, TypeScript)
 - Taking web development courses at Yandex Practicum (practicum.yandex.ru/frontend-developer/)
 
 ## 📅 Hobbies
