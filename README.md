@@ -28,11 +28,8 @@
     <a href="https://www.linkedin.com/in/mikhail-shukanov-842243308/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/deathboii" target="_blank">
+    <a href="https://t.me/shizzzx" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/deathboii" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="https://www.instagram.com/eternal.forgotten/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40" alt="VK Badge"/>
