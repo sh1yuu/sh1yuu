@@ -37,32 +37,9 @@
   </div>
 
 ## 📊 GitHub Stats:
-<table>
-    <tr>
-        <td>
 ![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-        </td>
-        <td>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)<br/>
-        </td>
-        <td>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-        </td>    
-    </tr>
-</table>
-
-## ⚙️ GitHub stats
-<table>
-  <tr>
-    <td>
-       
-      <a href="http://www.github.com/sh1yuu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/sh1yuu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
