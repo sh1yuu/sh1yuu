@@ -38,9 +38,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div align="center">
