@@ -37,14 +37,19 @@
   </div>
 
 ## 📊 GitHub Stats:
+<table>
+    <tr>
+        <td>
 ![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+        </td>
+        <td>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)<br/>
+        </td>
+        <td>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sh1yuu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+        </td>    
+    </tr>
+</table>
 
 ## ⚙️ GitHub stats
 <table>
