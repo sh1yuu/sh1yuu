@@ -8,9 +8,9 @@
 
 ## 💬 About me
 - Frontend developer (React, TypeScript)
-- Student of Yandex Practicum, improving my knowledge with the help of Udemy, as well as videos and articles. Currently looking for a job to participate in real projects in order to develop my professional skills.
-
-I also want to continue developing as a JavaScript/TypeScript programmer.
+- Student of Yandex Practicum
+- improving my knowledge with the help of Udemy, as well as videos and articles. Currently looking for a job to participate in real projects in order to develop my professional skills.
+- I also want to continue developing as a JavaScript/TypeScript programmer.
 
 ## 📅 Hobbies
 - Watch anime and TV shows
