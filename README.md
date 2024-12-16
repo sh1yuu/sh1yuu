@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Mikhail</h1>
-<h3 align="center">Beginner Frontend-developer from Belarus</h3>
+<h3 align="center">Frontend-developer from Belarus</h3>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif">
