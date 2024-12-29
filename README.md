@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" /></br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" /></br>
     <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" /></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
 </div>     
