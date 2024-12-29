@@ -33,16 +33,19 @@
 <h2 align="center">📱 Social media 📱</h2>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mikhail-shukanov/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
     <a href="https://t.me/shizzzx" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
     </a>
     <a href="https://www.instagram.com/etternall.forgotten/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="60" height="60" alt="Instagram"/>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
     </a>
-  </div>
-
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+ 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <table width="100%">
   <tr>
