@@ -76,5 +76,5 @@
 <br />
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
+    <img src="https://i.pinimg.com/originals/12/ee/23/12ee23c52a388c58457b4fc9cc42f986.gif">
 </div>
