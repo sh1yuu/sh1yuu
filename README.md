@@ -33,13 +33,13 @@
 <h2 align="center">📱 Social media 📱</h2>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mikhail-shukanov/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="60" height="60" alt="linkedin" />
     </a>
     <a href="https://t.me/shizzzx" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="telegram" />
     </a>
     <a href="https://www.instagram.com/etternall.forgotten/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="60" height="60" alt="Instagram"/>
     </a>
   </div>
 
