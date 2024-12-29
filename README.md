@@ -48,4 +48,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
 </div>
-[![visitor badge](https://visitcount.itsvg.in/api?id=sh1yuu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+    <a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
+</div>
