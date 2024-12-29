@@ -49,4 +49,4 @@
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
 </div>
 
-[![visitor badge](https://visitcount.itsvg.in/api?id=sh1yuu&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitor badge](https://visitcount.itsvg.in/api?id=sh1yuu&icon=0&color=0)](https://visitcount.itsvg.in)
