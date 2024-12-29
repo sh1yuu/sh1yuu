@@ -3,7 +3,7 @@
 <h3 align="center">Frontend-developer from Belarus</h3>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif">
+    <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif">
 </div>
 
 ## 💬 About me
@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
 </div>     
 
-## <div align="center">
+<div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
 </div>
 
