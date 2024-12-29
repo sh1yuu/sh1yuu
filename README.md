@@ -55,31 +55,40 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sh1yuu>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" />
+        <a href="https://github.com/Kiran1689">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sh1yuu>
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sh1yuu/stellar-burgers">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1yuu&repo=stellar-burgers&theme=vue-dark&show_owner=true&hide_border=true&count_private=true" alt="stellar-burgers" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sh1yuu>
+        <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+<br />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
