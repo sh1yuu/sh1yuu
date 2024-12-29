@@ -18,6 +18,19 @@
 - Play videogames
 - etc...
 
+<h2 align="center">📱 Connect with me 📱</h2>
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/mikhail-shukanov/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+    </a>
+    <a href="https://t.me/shizzzx" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
+    </a>
+    <a href="https://www.instagram.com/etternall.forgotten/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+    </a>
+</div>
+
 <a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
 
 ---
@@ -70,21 +83,6 @@
   </tr>
 </table>
 <br />
-
-<h2 align="center">📱 Connect with me 📱</h2>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/mikhail-shukanov/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-    </a>
-    <a href="https://t.me/shizzzx" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
-    </a>
-    <a href="https://www.instagram.com/etternall.forgotten/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-    </a>
-</div>
-
----
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
