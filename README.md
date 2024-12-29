@@ -85,13 +85,5 @@
 <br />
 
 <div align="center">
-  <a href="https://open.spotify.com/user/shiyuu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=shiyuu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
 </div>
