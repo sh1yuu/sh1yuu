@@ -74,7 +74,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/sh1yuu/stellar-burgers">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1yuu&repo=stellar-burgers&theme=vue-dark&show_owner=true&hide_border=true&count_private=true&show_owner=true" alt="stellar-burgers" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sh1yuu&repo=stellar-burgers&theme=vue-dark&show_owner=true&hide_border=true&count_private=true&show_owner=true&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f" alt="stellar-burgers" />
         </a>
       </p>
     </td>
