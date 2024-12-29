@@ -39,9 +39,12 @@
   </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)</br>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true)</br>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
            
 <div align="center">
 <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
