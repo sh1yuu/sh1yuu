@@ -74,7 +74,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/sh1yuu>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
         </a>
       </p>
     </td>
