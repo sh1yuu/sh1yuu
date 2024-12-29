@@ -2,8 +2,8 @@
     <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif">
 </div>
 
+<br><br>
 <div align="center">
-    <br><br>
     <a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
     <br><br>
     <a href="https://t.me/shizzzx"><img src="https://img.shields.io/badge/telegram-d9d9d9?style=for-the-badge&logo=telegram&logoColor=0A0209&link=https://t.me/shizzzx" alt="telegram" /></a>
