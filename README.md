@@ -48,7 +48,38 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" /></br>
     <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" /></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
-</div>     
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sh1yuu>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sh1yuu>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/sh1yuu>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sh1yuu's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
