@@ -18,6 +18,10 @@
 - Play videogames
 - etc...
 
+<a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
+
+---
+
 <h2 align="center">📱 Connect with me 📱</h2>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mikhail-shukanov/" target="_blank">
@@ -30,10 +34,6 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
     </a>
 </div>
-
-<a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
-
----
 
 <h2 align="center">📚 Learning 📚</h2>
 <p align="center">
