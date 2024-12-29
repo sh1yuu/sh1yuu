@@ -29,8 +29,8 @@
     </a>
   </p>
 
-## 📱 Social media
-<div id="badges">
+<h2 align="center">📱 Social media 📱</h2>
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/mikhail-shukanov-842243308/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
@@ -42,7 +42,7 @@
     </a>
   </div>
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats" /></br>
     <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" /></br>
