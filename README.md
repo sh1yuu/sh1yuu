@@ -80,6 +80,7 @@
     </td>
   </tr>
 </table>
+<br />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/89/b2/2e/89b22ed50509f67e538bbfdd5f6b6dbe.gif">
