@@ -3,7 +3,7 @@
 </div>
 
 ## 💬 About me
-<h2>Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Mikhail, Frontend-developer from Belarus</h1>
+<p>Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Mikhail, Frontend-developer from Belarus</p>
 - Frontend developer (React, TypeScript)
 - Student of Yandex Practicum
 - improving my knowledge with the help of Udemy, as well as videos and articles. Currently looking for a job to participate in real projects in order to develop my professional skills.
