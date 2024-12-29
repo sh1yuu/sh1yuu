@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif">
 </div>
 
-<br><br>
+<br>
 <div align="center">
     <a href="https://visitorbadge.io/status?path=sh1yuu"><img src="https://api.visitorbadge.io/api/visitors?path=sh1yuu&labelColor=%23697689&countColor=%23555555" /></a>
     <br><br>
