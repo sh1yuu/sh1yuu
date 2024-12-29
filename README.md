@@ -45,7 +45,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1yuu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh1yuu&theme=vue-dark&hide_border=true&border_radius=5&locale=ru&card_height=220" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sh1yuu&theme=vue-dark&hide_border=true&border_radius=5&locale=ru&card_height=220" alt="GitHub Streak" /></a></br>
     <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" />
 </div>
            
