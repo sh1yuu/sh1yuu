@@ -49,7 +49,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sh1yuu">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats"/>
+          <img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats"/>
         </a>
       </p>
     </td>
