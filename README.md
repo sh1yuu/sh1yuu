@@ -49,7 +49,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sh1yuu">
-          <img align="center" src="https://streak-stats.demolab.com?user=sh1yuu&theme=vue-dark&hide_border=true" alt="sh1yuu's GitHub Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=sh1yuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sh1yuu's GitHub Stats" />
         </a>
       </p>
     </td>
