@@ -15,8 +15,8 @@
 ## 💬 About me
 - Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Mikhail, Frontend-developer from Belarus (React, TypeScript)
 - Student of Yandex Practicum
-- improving my knowledge with the help of Udemy, as well as videos and articles. Currently looking for a job to participate in real projects in order to develop my professional skills.
-- I also want to continue developing as a JavaScript/TypeScript programmer.
+- I improve my knowledge by watching videos and reading articles. I am currently looking for a job in a product company to work on real projects and develop my professional skills.
+- I also want to continue developing as a React & TypeScript programmer.
 
 ## 📅 Hobbies
 - Watch anime and TV shows
