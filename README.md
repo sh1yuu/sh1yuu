@@ -13,16 +13,12 @@
 <br>
 
 ## 💬 About me
-- Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Mikhail, Frontend-developer from Belarus (React, TypeScript)
-- Student of Yandex Practicum
-- I improve my knowledge by watching videos and reading articles. I am currently looking for a job in a product company to work on real projects and develop my professional skills.
-- I also want to continue developing as a React & TypeScript programmer.
-
-## 📅 Hobbies
-- Watch anime and TV shows
-- Read some manhwa
-- Play videogames
-- etc...
+Я Frontend-разработчик из Беларуси.
+- <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Привет всем меня зовут Михаил.
+- ✍ Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
+- 🏃 Стремлюсь к улучшению своих навыков и расширению своего опыта.
+- 🌍 Хочу найти команду, с которой я мог бы вместе создавать что-то приносящее пользу людям.
+- 💻 Я сейчас активно ищу работу. <a href="https://app.enhancv.com/share/2fcf0d1b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Вот мое резюме</a>.
 
 ---
 
