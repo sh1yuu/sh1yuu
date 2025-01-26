@@ -24,7 +24,7 @@
 - Языки: JavaScript, TypeScript.
 - Фреймворки и библиотеки: React, React Router, Redux, Redux Toolkit.
 - Стилизация: SASS/SCSS, Styled-Components, CSS Modules.
-- Сборка и тестирование: Webpack, Vite, Jest, Storybook.
+- Сборка и тестирование: Webpack, Vite, Jest, Cypress, Storybook.
 - Методологии и подходы: адаптивная верстка, БЭМ, ООП.
 - Инструменты разработки: Git, GitHub, базовые знания Docker.
 
