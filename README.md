@@ -13,20 +13,21 @@
 <br>
 
 ## 💬 About me
-Я Frontend-разработчик из Беларуси.
-- <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Привет всем меня зовут Михаил.
-- ✍ Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
-- 🏃 Стремлюсь к улучшению своих навыков и расширению своего опыта.
-- 🌍 Хочу найти команду, с которой я мог бы вместе создавать что-то приносящее пользу людям.
-- 💻 Я сейчас активно ищу работу. <a href="https://app.enhancv.com/share/2fcf0d1b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Вот мое резюме</a>.
+I am a Frontend developer from Belarus.
+- <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hello everyone, my name is Mikhail.
+- ✍ I like to create something new or improve the old, bringing it to a full-fledged 
+ quality product that you can enjoy using.
+- 🏃 Striving to improve my skills and broaden my experience.
+- 🌍 I want to find a team with whom I can work together to create something that benefits people.
+- 💻  I am actively looking for a job right now. <a href="https://app.enhancv.com/share/2fcf0d1b/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Here is my CV</a>.
 <br></br>
-- 💼 В своей работе использую современные инструменты и технологии:
-- Языки: JavaScript, TypeScript.
-- Фреймворки и библиотеки: React, React Router, Redux, Redux Toolkit.
-- Стилизация: SASS/SCSS, Styled-Components, CSS Modules.
-- Сборка и тестирование: Webpack, Vite, Jest, Cypress, Storybook.
-- Методологии и подходы: адаптивная верстка, БЭМ, ООП.
-- Инструменты разработки: Git, GitHub, базовые знания Docker.
+- 💼 I use modern tools and technology in my work::
+- Languages: JavaScript, TypeScript.
+- Frameworks and libraries: React, React Router, Redux, Redux Toolkit.
+- Stylisation: SASS/SCSS, Styled-Components, CSS Modules.
+- Assembly and testing: Webpack, Vite, Jest, Storybook.
+- Methodologies and approaches: adaptive layout, BEM, OOP.
+- Development tools: Git, GitHub, basic knowledge of Docker.
 
 ---
 
