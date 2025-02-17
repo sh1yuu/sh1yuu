@@ -23,8 +23,8 @@ I am a Frontend developer from Belarus.
 <br></br>
 - 💼 I use modern tools and technology in my work::
 - Languages: JavaScript, TypeScript.
-- Frameworks and libraries: React, React Router, Redux, Redux Toolkit.
-- Stylisation: SASS/SCSS, Styled-Components, CSS Modules.
+- Frameworks and libraries: React, Next.js, React Router, Redux, Redux Toolkit.
+- Stylisation: SASS/SCSS, Tailwind, Styled-Components, CSS Modules.
 - Assembly and testing: Webpack, Vite, Jest, Storybook.
 - Methodologies and approaches: adaptive layout, BEM, OOP.
 - Development tools: Git, GitHub, basic knowledge of Docker.
