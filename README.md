@@ -19,7 +19,7 @@ I am a Frontend developer from Belarus.
  quality product that you can enjoy using.
 - 🏃 Striving to improve my skills and broaden my experience.
 - 🌍 I want to find a team with whom I can work together to create something that benefits people.
-- 💻  I am actively looking for a job right now. <a href="https://app.enhancv.com/share/a1c98d7d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Here is my CV</a>.
+- 💻  I am actively looking for a job right now. <a href="https://app.enhancv.com/share/a1c98d7d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Here is my CV</a>, <a href="https://portfolio-mikhail-shukanov.vercel.app/">Here is my Portfolio</a>.
 <br></br>
 - 💼 I use modern tools and technology in my work::
 - Languages: JavaScript, TypeScript.
