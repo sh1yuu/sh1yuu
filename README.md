@@ -19,15 +19,16 @@ I am a Frontend developer from Belarus.
  quality product that you can enjoy using.
 - 🏃 Striving to improve my skills and broaden my experience.
 - 🌍 I want to find a team with whom I can work together to create something that benefits people.
-- 💻  I am actively looking for a job right now. <a href="https://app.enhancv.com/share/a1c98d7d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">Here is my CV</a>, <a href="https://portfolio-mikhail-shukanov.vercel.app/">Here is my Portfolio</a>.
+- 💻  I am actively looking for a job right now. <a href="https://drive.google.com/file/d/1f2I66zM2ALeTDs0-qw1e_IJmXmvcRrob/view?usp=sharing">Here is my CV</a>, <a href="https://portfolio-mikhail-shukanov.vercel.app/">Here is my Portfolio</a>.
 <br></br>
 - 💼 I use modern tools and technology in my work::
-- Languages: JavaScript, TypeScript.
-- Frameworks and libraries: React, Next.js, React Router, Redux, Redux Toolkit.
-- Stylisation: SASS/SCSS, Tailwind, Styled-Components, CSS Modules.
-- Assembly and testing: Webpack, Vite, Jest, Storybook.
-- Methodologies and approaches: adaptive layout, BEM, OOP.
-- Development tools: Git, GitHub, basic knowledge of Docker.
+- Languages and technologies: JavaScript (ES6+), TypeScript, HTML5, CSS3 (SCSS, Sass, BEM), REST API, DOM, OOP.
+- Frameworks and libraries: React, Redux, React Router, Next.js, Storybook
+- Tools and builders: Webpack, Vite, Gulp
+- Testing: Jest, Cypress
+- UI development: Figma, Tailwind, Grid Layout, Flexbox
+- Version control: Git, Bash
+- Soft skills: Stress tolerance, teamwork, responsibility
 
 ---
 
