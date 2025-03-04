@@ -35,8 +35,8 @@ I am a Frontend developer from Belarus.
 <h2 align="center">📚 Learning 📚</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,sass,webpack,jest,docker" />
-        <img src="https://skillicons.dev/icons?i=babel,git,bash,postman,gulp,pug,figma,cypress,vscode" />
+        <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,sass,webpack,jest,docker,nextjs" />
+        <img src="https://skillicons.dev/icons?i=babel,git,bash,postman,tailwind,gulp,pug,figma,cypress,vscode" />
     </a>
   </p>
  
