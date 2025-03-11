@@ -36,7 +36,7 @@ I am a Frontend developer from Belarus.
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,sass,jest,docker,gitlab" />
-        <img src="https://skillicons.dev/icons?i=webpack,vite,babel,git,bash,postman,tailwind,gulp,pug,figma,cypress,vscode" />
+        <img src="https://skillicons.dev/icons?i=webpack,vite,babel,git,bash,postman,gulp,pug,figma,cypress,vscode" />
     </a>
   </p>
  
