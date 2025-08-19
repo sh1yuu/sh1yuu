@@ -19,7 +19,7 @@ I am a Frontend developer from Belarus.
  quality product that you can enjoy using.
 - 🏃 Striving to improve my skills and broaden my experience.
 - 🌍 I want to find a team with whom I can work together to create something that benefits people.
-- 💻  I am actively looking for a job right now. <a href="https://drive.google.com/file/d/1KidRlSnoJbjVZ4R7JscIJAOin53Doun4/view?usp=drive_link">Here is my CV</a>, <a href="https://shiyuu.vercel.app">Here is my Portfolio</a>.
+- 💻  I am actively looking for a job right now. <a href="https://drive.google.com/file/d/1pD9xa3qpjAuwEajw8o0MBGffsNZCUnkT/view?usp=sharing">Here is my CV</a>, <a href="https://shiyuu.vercel.app">Here is my Portfolio</a>.
 <br></br>
 - 💼 I use modern tools and technology in my work::
 - Languages and technologies: JavaScript (ES6+), TypeScript, HTML5, CSS3 (SCSS, Sass, BEM), REST API, DOM, OOP.
